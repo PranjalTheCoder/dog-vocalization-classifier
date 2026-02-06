@@ -1,0 +1,41 @@
+# Data files
+data/
+*.wav
+*.mp3
+*.flac
+
+# Models
+*.h5
+*.pt
+*.pkl
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+dogenv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+*.cache
+.pytest_cache/
