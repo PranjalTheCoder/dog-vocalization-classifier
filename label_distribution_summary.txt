@@ -1,0 +1,28 @@
+Dataset Label Distribution Summary
+==================================================
+
+Arousal Distribution:
+------------------------------
+Training Set:
+  High: 184 samples
+  Low: 154 samples
+  Medium: 262 samples
+
+Test Set:
+  High: 33 samples
+  Low: 33 samples
+  Medium: 34 samples
+
+==================================================
+
+Valence Distribution:
+------------------------------
+Training Set:
+  Negative: 138 samples
+  Neutral: 189 samples
+  Positive: 273 samples
+
+Test Set:
+  Negative: 33 samples
+  Neutral: 33 samples
+  Positive: 34 samples
